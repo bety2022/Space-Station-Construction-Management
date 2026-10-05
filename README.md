@@ -48,7 +48,7 @@ El proyecto cubre el ciclo de vida completo de la construcción, control de recu
 
 | N.º | Descripción del Paso | Vista Previa |
 | --- | --- | --- |
-| **01** | Creación del espacio de trabajo y app **Space Station Construction**. | *(1.png)* |
+| **01** | Creación del espacio de trabajo y app **Space Station Construction**. | 1.png |
 | **02** | Progreso de validación en Trailhead (+100 pts). | *(Arrastra aquí la imagen 2)* |
 | **03** | Configuración inicial del registro de la estación espacial **Mothership**. | *(Arrastra aquí la imagen 3)* |
 | **04** | Vinculación de listas relacionadas (`Resources` y `Supplies`). | *(Arrastra aquí la imagen 4)* |
