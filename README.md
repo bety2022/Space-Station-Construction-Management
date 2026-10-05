@@ -44,7 +44,7 @@ El proyecto cubre el ciclo de vida completo de la construcción, control de recu
 
 ## 📸 Proceso de Implementación Paso a Paso
 
-| **01** |  Creación del espacio de trabajo y app **Space Station Construction**.  ![Paso 01](1.png) 
+| **01** | Creación del espacio de trabajo y app **Space Station Construction**.  ![Paso 01](1.png) 
 
 | **02** | Progreso de validación en Trailhead (+100 pts).  ![Paso 02](2.png) 
 
