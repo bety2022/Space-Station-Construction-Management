@@ -44,33 +44,33 @@ El proyecto cubre el ciclo de vida completo de la construcción, control de recu
 
 ## 📸 Proceso de Implementación Paso a Paso
 
-| **01** | Creación del espacio de trabajo y app **Space Station Construction**. | ![Paso 01](1.png) 
+| **01** | Creación del espacio de trabajo y app **Space Station Construction**.  ![Paso 01](1.png) 
 
-| **02** | Progreso de validación en Trailhead (+100 pts). | ![Paso 02](2.png) 
+| **02** | Progreso de validación en Trailhead (+100 pts).  ![Paso 02](2.png) 
 
-| **03** | Configuración inicial del registro de la estación espacial **Mothership**. | ![Paso 03](3.png) 
+| **03** | Configuración inicial del registro de la estación espacial **Mothership**.  ![Paso 03](3.png) 
 
-| **04** | Vinculación de listas relacionadas (`Resources` y `Supplies`). | ![Paso 04](4.png) 
+| **04** | Vinculación de listas relacionadas (`Resources` y `Supplies`).  ![Paso 04](4.png) 
 
-| **05** | Comprobación de requisitos del modelo de objetos (+100 pts). | ![Paso 05](5.png) 
+| **05** | Comprobación de requisitos del modelo de objetos (+100 pts).  ![Paso 05](5.png) 
 
-| **06** | Configuración y activación del flujo en **Flow Builder**. | ![Paso 06](6.png) 
+| **06** | Configuración y activación del flujo en **Flow Builder**.  ![Paso 06](6.png) 
 
-| **07** | Prueba E2E: Disparo de la automatización y publicación en **Chatter**. |![Paso 07](7.png) 
+| **07** | Prueba E2E: Disparo de la automatización y publicación en **Chatter**. ![Paso 07](7.png) 
 
-| **08** | Validación de lógica de negocio y automatizaciones en Trailhead (+100 pts). | ![Paso 08](8.png) 
+| **08** | Validación de lógica de negocio y automatizaciones en Trailhead (+100 pts).  ![Paso 08](8.png) 
 
-| **09** | Creación y ejecución del reporte analítico **Supplies**. | ![Paso 09](9.png) 
+| **09** | Creación y ejecución del reporte analítico **Supplies**.  ![Paso 09](9.png) 
 
-| **10** | Configuración del panel de control gráfico **Dashboard**. |![Paso 10](10.png) 
+| **10** | Configuración del panel de control gráfico **Dashboard**. ![Paso 10](10.png) 
 
-| **11** | Notificación de logro: ¡Obtención de la insignia oficial! |![Paso 11](11.png) 
+| **11** | Notificación de logro: ¡Obtención de la insignia oficial! ![Paso 11](11.png) 
 
-| **12** | Registro de la racha semanal de aprendizaje en Trailhead (*1 Week Streak*). |![Paso 12](12.png) 
+| **12** | Registro de la racha semanal de aprendizaje en Trailhead (*1 Week Streak*). ![Paso 12](12.png) 
 
-| **13** | Estado del proyecto al 100% completado en Trailhead (+500 pts). |![Paso 13](13.png) 
+| **13** | Estado del proyecto al 100% completado en Trailhead (+500 pts). ![Paso 13](13.png) 
 
-| **14** | Ficha técnica de la insignia ganada **Build a Space Station App**. | <p align="center"><img src="14.png" width="500" alt="Paso 14"></p> 
+| **14** | Ficha técnica de la insignia ganada **Build a Space Station App**.  <p align="center"><img src="14.png" width="500" alt="Paso 14"></p> 
 
 ---
 
