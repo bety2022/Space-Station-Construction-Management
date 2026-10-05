@@ -25,8 +25,6 @@ El proyecto cubre el ciclo de vida completo de la construcción, control de recu
 
 ### 2. Reglas de Negocio e Integridad de Datos (*Validation Rules*)
 * **Auditoría de Utilización:** Implementación de reglas de validación en el objeto `Resource` para exigir una asignación mínima del 150% en roles clave (*Exhaust Port Inspector*):
-  ```text
-
  
 ### 3. Automatización Declarativa de Procesos (*Flow Builder*)
 
@@ -80,7 +78,6 @@ El proyecto cubre el ciclo de vida completo de la construcción, control de recu
 * **Perfil Trailblazer:** [salesforce.com/trailblazer/lopezcarolina](https://www.salesforce.com/trailblazer/lopezcarolina)
 * **Rango Trailhead:** Mountaineer
 * **Especialidades:** Flow Builder, Data Modeling, Validation Rules, Reports & Dashboards.
-
 ```
 
 ```
