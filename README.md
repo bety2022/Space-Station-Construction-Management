@@ -70,7 +70,7 @@ El proyecto cubre el ciclo de vida completo de la construcción, control de recu
 
 | **13** | Estado del proyecto al 100% completado en Trailhead (+500 pts). |![Paso 13](13.png) 
 
-| **14** | Ficha técnica de la insignia ganada **Build a Space Station App**. | <p align="center"><img src="14.png" width="300" alt="Paso 14"></p> 
+| **14** | Ficha técnica de la insignia ganada **Build a Space Station App**. | <p align="center"><img src="14.png" width="500" alt="Paso 14"></p> 
 
 ---
 
