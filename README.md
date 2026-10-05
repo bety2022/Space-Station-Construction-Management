@@ -46,8 +46,6 @@ El proyecto cubre el ciclo de vida completo de la construcción, control de recu
 
 ## 📸 Proceso de Implementación Paso a Paso
 
-| N.º | Descripción del Paso | Vista Previa |   https://github.com/bety2022/Space-Station-Construction-Management/blob/c08c0e987acd562320a5883d15716d71e2e32659/1.png
-| --- | --- | --- |
 | **01** | Creación del espacio de trabajo y app **Space Station Construction**. | ![Paso 01](1.png) |
 | **02** | Progreso de validación en Trailhead (+100 pts). | *(Arrastra aquí la imagen 2)* |
 | **03** | Configuración inicial del registro de la estación espacial **Mothership**. | *(Arrastra aquí la imagen 3)* |
