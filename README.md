@@ -47,19 +47,19 @@ El proyecto cubre el ciclo de vida completo de la construcción, control de recu
 ## 📸 Proceso de Implementación Paso a Paso
 
 | **01** | Creación del espacio de trabajo y app **Space Station Construction**. | ![Paso 01](1.png) |
-| **02** | Progreso de validación en Trailhead (+100 pts). | *(Arrastra aquí la imagen 2)* |
-| **03** | Configuración inicial del registro de la estación espacial **Mothership**. | *(Arrastra aquí la imagen 3)* |
-| **04** | Vinculación de listas relacionadas (`Resources` y `Supplies`). | *(Arrastra aquí la imagen 4)* |
-| **05** | Comprobación de requisitos del modelo de objetos (+100 pts). | *(Arrastra aquí la imagen 5)* |
-| **06** | Configuración y activación del flujo en **Flow Builder** (*Fully Operational Space Station*). | *(Arrastra aquí la imagen 6)* |
-| **07** | Prueba E2E: Disparo de la automatización y publicación en **Chatter**. | *(Arrastra aquí la imagen 7)* |
-| **08** | Validación de lógica de negocio y automatizaciones en Trailhead (+100 pts). | *(Arrastra aquí la imagen 8)* |
-| **09** | Creación y ejecución del reporte analítico **Supplies**. | *(Arrastra aquí la imagen 9)* |
-| **10** | Configuración del panel de control gráfico **Dashboard** (*Construction Supplies*). | *(Arrastra aquí la imagen 10)* |
-| **11** | Notificación de logro: ¡Obtención de la insignia oficial! | *(Arrastra aquí la imagen 11)* |
-| **12** | Registro de la racha semanal de aprendizaje en Trailhead (*1 Week Streak*). | *(Arrastra aquí la imagen 12)* |
-| **13** | Estado del proyecto al 100% completado en Trailhead (+500 pts). | *(Arrastra aquí la imagen 13)* |
-| **14** | Ficha técnica de la insignia ganada **Build a Space Station App**. | *(Arrastra aquí la imagen 14)* |
+| **02** | Progreso de validación en Trailhead (+100 pts). | *(Arrastra aquí la imagen 2)* | ![Paso 02](2.png) |
+| **03** | Configuración inicial del registro de la estación espacial **Mothership**. | ![Paso 03](3.png) |
+| **04** | Vinculación de listas relacionadas (`Resources` y `Supplies`). | ![Paso 04](4.png) |
+| **05** | Comprobación de requisitos del modelo de objetos (+100 pts). | ![Paso 05](5.png) |
+| **06** | Configuración y activación del flujo en **Flow Builder** (*Fully Operational Space Station*). | ![Paso 06](6.png) |
+| **07** | Prueba E2E: Disparo de la automatización y publicación en **Chatter**. |![Paso 07](7.png) |
+| **08** | Validación de lógica de negocio y automatizaciones en Trailhead (+100 pts). | ![Paso 08](8.png) |
+| **09** | Creación y ejecución del reporte analítico **Supplies**. | ![Paso 09](9.png) |
+| **10** | Configuración del panel de control gráfico **Dashboard** (*Construction Supplies*). |![Paso 10](10.png) |
+| **11** | Notificación de logro: ¡Obtención de la insignia oficial! |![Paso 11](11.png) |
+| **12** | Registro de la racha semanal de aprendizaje en Trailhead (*1 Week Streak*). |![Paso 12](12.png) |
+| **13** | Estado del proyecto al 100% completado en Trailhead (+500 pts).|![Paso 13](13.png) |
+| **14** | Ficha técnica de la insignia ganada **Build a Space Station App**.|![Paso 14](14.png) |
 
 ---
 
