@@ -1,4 +1,3 @@
-# Space-Station-Construction-Management
 # 🚀 Salesforce App: Space Station Construction Management
 
 ![Salesforce](https://img.shields.io/badge/Salesforce-Lightning%20Platform-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
@@ -87,8 +86,5 @@ El proyecto cubre el ciclo de vida completo de la construcción, control de recu
 * **Especialidades:** Flow Builder, Data Modeling, Validation Rules, Reports & Dashboards.
 
 ```
-
-Una vez guardados los cambios (`Commit changes`), verás la tabla desplegada con cada una de tus capturas integradas.
-
 ```
  
