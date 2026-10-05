@@ -27,9 +27,7 @@ El proyecto cubre el ciclo de vida completo de la construcción, control de recu
 * **Auditoría de Utilización:** Implementación de reglas de validación en el objeto `Resource` para exigir una asignación mínima del 150% en roles clave (*Exhaust Port Inspector*):
   ```text
 
-  ¡Entendido, Carolina! Para que las 14 imágenes se vean de manera automática dentro de la tabla de tu repositorio en GitHub, las imágenes tienen que subirse físicamente al repositorio junto al archivo `README.md`.
-
-
+ 
 ### 3. Automatización Declarativa de Procesos (*Flow Builder*)
 
 * **Flujo Desencadenado por Registro (`Record-Triggered Flow`):** *Fully Operational Space Station*.
@@ -50,20 +48,20 @@ El proyecto cubre el ciclo de vida completo de la construcción, control de recu
 
 | N.º | Descripción del Paso | Vista Previa |
 | --- | --- | --- |
-| **01** | Creación del espacio de trabajo y app **Space Station Construction**. |  |
-| **02** | Progreso de validación en Trailhead (+100 pts). |  |
-| **03** | Configuración inicial del registro de la estación espacial **Mothership**. |  |
-| **04** | Vinculación de listas relacionadas (`Resources` y `Supplies`). |  |
-| **05** | Comprobación de requisitos del modelo de objetos (+100 pts). |  |
-| **06** | Configuración y activación del flujo en **Flow Builder** (*Fully Operational Space Station*). |  |
-| **07** | Prueba E2E: Disparo de la automatización y publicación en **Chatter**. |  |
-| **08** | Validación de lógica de negocio y automatizaciones en Trailhead (+100 pts). |  |
-| **09** | Creación y ejecución del reporte analítico **Supplies**. |  |
-| **10** | Configuración del panel de control gráfico **Dashboard** (*Construction Supplies*). |  |
-| **11** | Notificación de logro: ¡Obtención de la insignia oficial! |  |
-| **12** | Registro de la racha semanal de aprendizaje en Trailhead (*1 Week Streak*). |  |
-| **13** | Estado del proyecto al 100% completado en Trailhead (+500 pts). |  |
-| **14** | Ficha técnica de la insignia ganada **Build a Space Station App**. |  |
+| **01** | Creación del espacio de trabajo y app **Space Station Construction**. | *(Arrastra aquí la imagen 1)* |
+| **02** | Progreso de validación en Trailhead (+100 pts). | *(Arrastra aquí la imagen 2)* |
+| **03** | Configuración inicial del registro de la estación espacial **Mothership**. | *(Arrastra aquí la imagen 3)* |
+| **04** | Vinculación de listas relacionadas (`Resources` y `Supplies`). | *(Arrastra aquí la imagen 4)* |
+| **05** | Comprobación de requisitos del modelo de objetos (+100 pts). | *(Arrastra aquí la imagen 5)* |
+| **06** | Configuración y activación del flujo en **Flow Builder** (*Fully Operational Space Station*). | *(Arrastra aquí la imagen 6)* |
+| **07** | Prueba E2E: Disparo de la automatización y publicación en **Chatter**. | *(Arrastra aquí la imagen 7)* |
+| **08** | Validación de lógica de negocio y automatizaciones en Trailhead (+100 pts). | *(Arrastra aquí la imagen 8)* |
+| **09** | Creación y ejecución del reporte analítico **Supplies**. | *(Arrastra aquí la imagen 9)* |
+| **10** | Configuración del panel de control gráfico **Dashboard** (*Construction Supplies*). | *(Arrastra aquí la imagen 10)* |
+| **11** | Notificación de logro: ¡Obtención de la insignia oficial! | *(Arrastra aquí la imagen 11)* |
+| **12** | Registro de la racha semanal de aprendizaje en Trailhead (*1 Week Streak*). | *(Arrastra aquí la imagen 12)* |
+| **13** | Estado del proyecto al 100% completado en Trailhead (+500 pts). | *(Arrastra aquí la imagen 13)* |
+| **14** | Ficha técnica de la insignia ganada **Build a Space Station App**. | *(Arrastra aquí la imagen 14)* |
 
 ---
 
@@ -86,5 +84,7 @@ El proyecto cubre el ciclo de vida completo de la construcción, control de recu
 * **Especialidades:** Flow Builder, Data Modeling, Validation Rules, Reports & Dashboards.
 
 ```
+
 ```
+
  
