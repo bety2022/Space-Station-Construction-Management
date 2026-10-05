@@ -58,8 +58,8 @@ El proyecto cubre el ciclo de vida completo de la construcción, control de recu
 | **10** | Configuración del panel de control gráfico **Dashboard** (*Construction Supplies*). |![Paso 10](10.png) |
 | **11** | Notificación de logro: ¡Obtención de la insignia oficial! |![Paso 11](11.png) |
 | **12** | Registro de la racha semanal de aprendizaje en Trailhead (*1 Week Streak*). |![Paso 12](12.png) |
-| **13** | Estado del proyecto al 100% completado en Trailhead (+500 pts).|![Paso 13](13.png) |
-| **14** | Ficha técnica de la insignia ganada **Build a Space Station App**.|![Paso 14](14.png) |
+| **13** | Estado del proyecto al 100% completado en Trailhead (+500 pts). |![Paso 13](13.png) |
+| **14** | Ficha técnica de la insignia ganada **Build a Space Station App**. |![Paso 14](14.png) |
 
 ---
 
