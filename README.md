@@ -91,8 +91,9 @@ El proyecto cubre el ciclo de vida completo de la construcción, control de recu
 * **Perfil Trailblazer:** [salesforce.com/trailblazer/lopezcarolina](https://www.salesforce.com/trailblazer/lopezcarolina)
 * **Rango Trailhead:** Mountaineer
 * **Especialidades:** Flow Builder, Data Modeling, Validation Rules, Reports & Dashboards.
-```
 
-```
+## 📧 Contacto
+¿Tienes un proyecto en mente? Conectémonos y hagamos que las cosas sucedan! Puedes escribirme a carolinalopezdatascientist@gmail.com o seguirme en [LinkedIn](https://www.linkedin.com/in/carolina-lopez-430208106/).
+<br /><br />
 
  
